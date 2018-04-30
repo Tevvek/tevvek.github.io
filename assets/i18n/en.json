@@ -1,0 +1,52 @@
+{
+    "header": {
+        "occupation": "developer"
+    },
+    "menu": {
+        "home": "home",
+        "about": "about",
+        "academics": "academics",
+        "experience": "experience",
+        "blog": "blog",
+        "contact": "contact"
+    },
+    "about": {
+        "mystory": {
+            "title" : "my story",
+            "summary": "Russian, Spanish, computer engineer, web developer",
+            "text": "I am Daniil Teterevkov. Born in Khabarovsk, Russia on 16th July 1994. When I was only 5 years old I moved with my parents to Buenos Aires, Argentina. Then again, when I was 11 years old we moved again to Barcelona, Catalonia. My live was already crazy at such young age but I am glad all that happened because it made me person I am today. So welcome to my resume, I wish you enjoy it and think deeply your next phone call, because it may be me, or it may be not, but then I guess, you'd lose a great worker!"
+        },
+        "info": {
+            "title": "Personal info",
+            "keys": {
+                "birthday": "birthday",
+                "email": "email",
+                "languages": "languages"
+            },
+            "values": {
+                "birthday": "16/07/1994",
+                "email": "daniil.teterevkov@gmail.com",
+                "languages": "Spanish, Catalan, English and Russian"
+            }
+        },
+        "knowledge": {
+            "title": "knowledge",
+            "web": {
+                "title": "Web Development and Design",
+                "info": "...as this very same webpage"
+            },
+            "server": {
+                "title": "Server Startup",
+                "info": "...don't forget the tests!"
+            },
+            "phone": {
+                "title": "Phone Development and Design",
+                "info": "...native or hybrid? Does it matter?"
+            },
+            "team": {
+                "title": "Team Work and Leadership",
+                "info": "...power to the people!"
+            }
+        }
+    }
+}
